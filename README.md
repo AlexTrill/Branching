@@ -1,7 +1,10 @@
 ## Git Cheat Sheet
 
+THIS IS MANIN BRANCH CODE
+
+
 Overview of git commands.
-text added on main branch to create a merge conflict 
+text added on main branch to create a merge conflict
 
 
 ### Basic Commands
