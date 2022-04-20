@@ -1,7 +1,12 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
-text added on main branch to create a merge conflict 
+
+newBranch stuff
+git rocks!
+
+text added on main branch to create a merge conflict
+
 
 
 ### Basic Commands
@@ -16,4 +21,11 @@ text added on main branch to create a merge conflict
 * 'git status' - status of local workpace
 * 'git log' - show log of commits
 * 'git log --oneline' - show compact log
-* ''
+* 'git config -l' - list git configuration
+
+### Branching Commands
+*'git branch' - list local branches
+*git branch branchName' - create branches
+*'git checkout branchName' - switch to branchName
+*
+###
