@@ -1,8 +1,13 @@
 ## Git Cheat Sheet
 
 Overview of git commands.
+
 newBranch stuff
 git rocks!
+
+text added on main branch to create a merge conflict
+
+
 
 ### Basic Commands
 
