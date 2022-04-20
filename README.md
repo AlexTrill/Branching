@@ -12,3 +12,8 @@
 * 'git log' - show log of commits
 * 'git log --oneline' - show compact log
 * ''
+
+### Branching Commands
+*'git branch' - list local branches
+*git branch branchName' - create branches
+*'git checkout branchName' - switch to branchName
